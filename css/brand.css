@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+/* ブランド別の紹介ぺージ */
+.brand{
+	list-style-type : none;
+	background : #dcdcdc;
+	padding : 20px;
+}

@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+.syouhinbox{
+	float : left;
+	width : 230px;
+	height : 400px;
+	background : #ffffff;
+	margin : 10px 0 20px 20px;
+
+}
+
+
+.brando{
+	font-weight : bold;
+}
+
+.hinmei{
+	font-size : 14px;
+}
+
+.sentakusi{
+	text-align : right;
+	display : block;
+}
+
+.nedan{
+	color : #ff0000;
+	font-weight : bold;
+}
+
+.rank{
+	background : #778899;
+	color : #ffffff;
+	font-size : 14px;
+	padding : 2px;
+
+}

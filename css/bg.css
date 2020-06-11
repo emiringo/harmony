@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+header{
+	background : #000000;
+}
+
+nav#gnav{
+	background : #000000;
+}
+
+nav#lnav1{
+	background : #e9967a;
+}
+
+nav#lnav2{
+	background : #00fa9a;
+}
+
+main{
+	background : #ffffff;
+}
+
+footer{
+	background : #6090ef;
+}

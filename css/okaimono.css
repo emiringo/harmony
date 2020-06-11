@@ -1,0 +1,44 @@
+@cherset "UTF-8";
+
+.guide{
+	list-style-type : none;
+	background : #dcdcdc;
+	padding : 20px;
+}
+
+p{
+	padding : 7px;
+}
+
+h2,h3,h4{
+	padding : 10px;
+}
+
+h2{
+	padding : 10px;
+	
+}
+
+h3{
+	padding : 10px;
+	background : #dcdcdc;
+}
+
+h4{
+	padding : 10px;
+	background : #f5f5f5;
+}
+
+p{
+	line-height : 1.3em;
+}
+
+table{
+	border-collapse : collapse;
+	padding : 10px;
+	margin : 10px;
+}
+
+th,td{
+	padding : 10px;
+}

@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+html,body,p,h1,h2,h3,table,tr,th,div,from,
+  ul,ol,li,dl,dt,dd,header,nav,main,footer{
+	margin : 0;
+	padding : 0;
+}
+
+header,nav,main,footer{
+	display : block;
+}
+
+nav ul li{
+	list-style-type : none;
+}

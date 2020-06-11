@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+.item{
+	list-style-type : none;
+	background : #dcdcdc;
+	padding : 20px;
+}

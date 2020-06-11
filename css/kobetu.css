@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+.kobetubox1{
+	float : left;
+	width : 360px;
+	height : px;
+	background : #ffffff;
+	margin : 20px 0 0 0px;
+}
+
+.kobetubox2{
+	float : left;
+	width : 360px;
+	height : px;
+	margin : 20px 0 0 0px;
+}
+
+table{
+	border-collapse : collapse;
+	margin : 10px 0 10px 0;
+}
+
+th{
+	width : 90px;
+	line-height : 3em;
+	font-size : 0.9em;
+	background : #dcdcdc;
+}
+
+td{
+	font-size : 0.9em;
+	padding : 10px;
+}
+
+.nedan{
+	font-size : 25px;
+	color : #ff0000;
+}

@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+table{
+	border-collapse : collapse;
+	padding : 10px;
+	margin : 20px;
+	width : 80%;
+}
+
+th{
+	background : #dcdcdc;
+	width : 40%;
+	text-align : right;
+}
+
+td{
+	width : 90%;
+}
+
+th,td{
+	border-style : solid;
+	border-color : #000000;
+	padding : 15px;
+	border-width : 1px;
+}
+
+p{
+	padding : 5px;
+	margin : 0 0 0 5px;
+}
+
+.hisu{
+	color : #ffffff;
+	background-color : #ff0000;
+	font-size : 11px;
+	margin : 0 0 0 5px;
+	padding : 3px;
+}
+
+input.nagasa{
+	width : 90%;
+	padding : 5px;
+}
+
+input.nagasa2{
+	width : 80%;
+	padding : 5px;
+}
+
+input:focus,
+textarea:focus{
+		background-color : #f5f5f5;
+}
+
+input{
+	line-height : 1.5em;
+}
+
