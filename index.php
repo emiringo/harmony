@@ -66,7 +66,7 @@
 					<p>世界のブランド品の服や小物（バッグ等）の中古品を販売しています。<br>
 					商品の状態もチェックでき、安心して購入することができます。<br>
 					すべて1点ものなので、購入したい商品があればお早めに。</p>
-					<img src="images/burandoharu2.jpg" alt="春のブランド特集" width="360">
+					<img src="images/bg500s.jpg" alt="春のブランド特集" width="500">
 			</main>
 		</div><!-- rightの閉じ -->
 		</div><!-- containerの閉じ -->
